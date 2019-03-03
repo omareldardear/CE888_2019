@@ -16,3 +16,16 @@ In "TransferLearning_Example1.ipynb", we are taking a new dataset and it is simi
 In "TransferLearning_Example2.ipynb", we are taking same dataset as above. Since we have more data, we can have more confidence that we won’t overfit if we were to try to fine-tune through the full network.
 
 Now, please download any images dataset, with 2 or more classes apply the same methods such as feature extractor and fine tuning.
+
+=====================================
+
+For Lab 8:
+
+1) See example CNN and run it for MNIST data.
+  * Try to change some paramters any imporve the performance
+
+2) See CNN with droupout for Kaggle Cats and Dogs data.
+   * Try to change some paramters any imporve the performance
+
+3) See RNN for text data: IMDB movie reviews
+  * Try to change some paramters any imporve the performance
